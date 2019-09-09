@@ -34,11 +34,13 @@
 }
 
 .home {
-  background-color: #656565;
+  background-color: blue;
+  color: red;
 }
 
 .away {
-  background-color: #af750a;
+  background-color: white;
+  color: black;
 }
 
 .home__name,

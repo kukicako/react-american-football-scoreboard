@@ -45,11 +45,11 @@ button {
 
 button:hover,
 button:focus {
-  background: #a2272d;
+  background:black;;
 }
 
 button:focus {
-  outline: 1px solid #fff;
+  outline: 1px solid black;
   outline-offset: -4px;
 }
 
